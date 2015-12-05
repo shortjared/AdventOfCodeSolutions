@@ -1,0 +1,7 @@
+
+# Who needs code anyways...
+
+- Pasted into Sublime
+- cmd+f find number of open brackets
+- cmd+f find number of close brackets
+- open - close = solution
